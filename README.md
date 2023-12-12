@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanay787
-- 👀 I’m interested in learning on how to build and manage a cloud app ...
+- 👀 I’m interested in learning on how to build and manage apps using JS frameworks
 - 🌱 I’m currently learning Javascript, Node.js, Cloud Fundamentals...
 
 <!---
